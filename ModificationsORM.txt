@@ -1,0 +1,3 @@
+Comment arriver à enregistrer les choix de tous les users
+- Table QuizzChoice puis Choice 1 2 3 4 et QuestionID
+- ORM = + attribut questions choisi
