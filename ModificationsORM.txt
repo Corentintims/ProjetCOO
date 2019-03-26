@@ -1,3 +1,11 @@
 Comment arriver à enregistrer les choix de tous les users
 - Table QuizzChoice puis Choice 1 2 3 4 et QuestionID
 - ORM = + attribut questions choisi
+- Le glossaire car pas assez explicatif
+- Faits elementaires
+- users stories
+- diagramme de classes
+- diagramme séquence
+- choix de concenption
+
+!!!! demander à l'assiant si notre ORM est correcte!!!!
